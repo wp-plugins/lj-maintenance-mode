@@ -30,11 +30,10 @@ There are more features planned in near future.
 None yet.
 
 == Screenshots ==
+
 1. Example
 2. Admin Bar Indicator (Red when active)
 3. wp-admin settings page
-
-None yet.
 
 == Changelog ==
 
